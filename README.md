@@ -7,3 +7,4 @@ Além de ler (GET) os dados do banco foram desenvolvidas rotas para adicionar (P
 - 📷 O projeto em questão é uma aplicação de galeria de imagens, o desafio era impletar uma API que conseguisse alimentar o front-end.
 - 🤖 Também foi utilizada a API do Google Gemini para que as descrições das imagens fossem geradas de maneira automatica pela IA.
 - 📗 Foram utilizadas algumas bibliotecas de desenvolvimento como o Express para criação do servidor, o driver MongoDB para a conexão do banco, o Muter para a manipulação de imagens, entre outras...
+- ☁ Por fim, o projeto foi publicado na Google Cloud, um desafio e tanto mas graças a metodologia da Alura e a parceria com a Google, os desafios foram superados e o projeto funcionou na nuvem!
